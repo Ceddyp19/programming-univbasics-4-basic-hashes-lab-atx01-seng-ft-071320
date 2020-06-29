@@ -11,7 +11,7 @@ super_hero_powers = {
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  kung_fu_style = {:name => 'Grass Hopper'}
 end
 
 
