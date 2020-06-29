@@ -11,7 +11,7 @@ super_hero_powers = {
 end
 
 def pioneer
-  kung_fu_style = {:name => 'Grass Hopper'}
+  detectives = {:name => 'Grace Hopper'}
 end
 
 
