@@ -4,7 +4,10 @@ def new_hash
 end
 
 def my_hash
-super_hero_powers = { :wolverine 
+super_hero_powers = { 
+  :wolverine => "claws",
+  :hulk => "super strength",
+  :quick_silver => "super speed"}
 end
 
 def pioneer
